@@ -1,0 +1,9 @@
+_build/
+safe/
+*.o
+*.s
+*.exe
+compile
+_coverage
+*.coverage
+*.zip
